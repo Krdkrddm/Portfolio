@@ -67,5 +67,17 @@
 <td><b>pandas</b>, <b>matplotlib</b>,<b>seaborn</b>,<b>numpy</b>,<b>scipy</b>,<b>math</b></td>
 </tr>
 
+<tr>
+<td><b>7</b></td>
+<td><a href="https://github.com/Krdkrddm/Portfolio/blob/main/Учебные%20проекты/8.%20Анализ%20рынка%20заведений%20общественного%20питания%20Москвы.ipynb" target="_blank"><b>Исследования рынка общепита в Москве для принятия решения об
+открытии нового заведения</b>
+<td>8.Исследование рынка общественного питания на основе открытых данных, подготовка презентации. </td>
+<td>Визуализация данных, аналих конкурентов</td>
+<td><b>pandas</b>, <b>matplotlib</b>,<b>seaborn</b>,<b>numpy</b>,<b>plotly</b></td>
+</tr>
+
+
+
+
 </table>
 
