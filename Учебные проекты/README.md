@@ -76,7 +76,13 @@
 <td><b>pandas</b>, <b>matplotlib</b>,<b>seaborn</b>,<b>numpy</b>,<b>plotly</b></td>
 </tr>
 
-
+<tr>
+<td><b>9</b></td>
+<td><a href="https://github.com/Krdkrddm/Portfolio/blob/main/Учебные%20проекты/9.%20Построение%20дашбордов%20в%20Tableau.ipynb" target="_blank"><b>Создание дашборда по пользовательским событиям</b>
+<td>Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau. </td>
+<td>Построение дашбордов в Tableau, Визуализация данных</td>
+<td><b>Tableau</b>, <b>Построение дашбордов</b></td>
+</tr>
 
 
 </table>
